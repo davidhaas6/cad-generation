@@ -1,0 +1,6 @@
+.DS_store
+.venv/
+__pycache__/
+static/*
+*.stl
+test_request.txt
